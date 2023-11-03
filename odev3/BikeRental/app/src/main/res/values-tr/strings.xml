@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bike Rental</string>
+    <string name="bikename">Cowboy</string>
+    <string name="reservation">Kirala</string>
+    <string name="detail">Açıklama</string>
+    <string name="price">Ödenilebilir Tutar</string>
+    <string name="deposit">Depozito (İade Edilebilir)</string>
+    <string name="payment">Öde</string>
+    <string name="pricetag">250 ₺</string>
+    <string name="pricetag2">120 ₺</string>
+</resources>

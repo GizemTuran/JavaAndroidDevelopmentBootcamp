@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bike Rental</string>
+    <string name="bikename">Cowboy</string>
+    <string name="reservation">Book Bike</string>
+    <string name="detail">Description</string>
+    <string name="price">Payable Amount</string>
+    <string name="deposit">Security Deposit (Refundable)</string>
+    <string name="payment">Payment</string>
+    <string name="pricetag">$ 15</string>
+    <string name="pricetag2">$ 10</string>
+</resources>
